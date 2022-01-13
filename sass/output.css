@@ -1,0 +1,287 @@
+#app-mount .divider-1wtgZ3 {
+  display: none;
+}
+#app-mount .bodyInnerWrapper-2bQs1k {
+  padding: 0;
+}
+#app-mount .bodyTitle-2Az3VQ {
+  padding: 0 16px;
+}
+#app-mount .body-2wLx-E {
+  padding: 0 !important;
+  padding-bottom: 16px !important;
+}
+#app-mount .aboutMeSection-PUghFQ {
+  padding: 16px;
+}
+#app-mount .avatar-3QF_VA {
+  border-color: var(--backgroundColor02) !important;
+}
+#app-mount .topSection-13QKHs {
+  background-color: var(--backgroundColor02) !important;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.4);
+  position: relative;
+  z-index: 200;
+}
+#app-mount .tabBarContainer-sCZC4w {
+  border: none !important;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#app-mount .tabBarContainer-sCZC4w .selected-g-kMVV.item-3XjbnG,
+#app-mount .tabBarContainer-sCZC4w .selected-g-kMVV.item-3XjbnG:hover {
+  color: var(--mainColor);
+  border-bottom-color: var(--mainColor);
+}
+#app-mount .body-1Ukv50 {
+  background-color: var(--backgroundColor01) !important;
+}
+#app-mount .infoScroller-1QMpon {
+  padding: 16px !important;
+}
+#app-mount .userInfoSection-2u2hir {
+  padding: 0 !important;
+}
+#app-mount .userInfoSection-2u2hir .note-367eZJ {
+  margin: 0 0 16px 0;
+}
+#app-mount .userInfoSection-2u2hir .note-367eZJ textarea {
+  background-color: var(--backgroundColor02) !important;
+  border-radius: 4px;
+}
+#app-mount .userInfoSection-2u2hir + .userInfoSection-2u2hir {
+  border: none !important;
+}
+#app-mount .connectedAccount-1xKpli {
+  border: none !important;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#app-mount .listScroller-entkMk {
+  padding: 8px 16px !important;
+}
+#app-mount .listScroller-entkMk .listRow-2nO1T6 {
+  margin: 0;
+}
+#app-mount .listScroller-entkMk .listRow-2nO1T6:hover {
+  background-color: var(--backgroundColor02) !important;
+  border-radius: 6px;
+}
+#app-mount .activity-1gTu-L {
+  overflow: hidden;
+  position: relative;
+  background-color: var(--backgroundColor01);
+  padding: 16px;
+  margin-bottom: 16px;
+}
+#app-mount .activity-1gTu-L .headerText-3g1XK9,
+#app-mount .activity-1gTu-L .headerText-3g1XK9,
+#app-mount .activity-1gTu-L .anchor-1MIwyf,
+#app-mount .activity-1gTu-L .executedCommand-14-SNW .commandName-1KhvGm,
+#app-mount .activity-1gTu-L .markup-eYLPri a {
+  color: #fff !important;
+}
+#app-mount .activity-1gTu-L .lookFilled-1GseHa.colorGrey-2DXtkV {
+  background-color: #ffffff !important;
+  color: #1DB954 !important;
+  box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.35);
+}
+#app-mount .activity-1gTu-L .bar-1GpknY {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+#app-mount .activity-1gTu-L > * {
+  position: relative;
+  z-index: 10;
+}
+#app-mount .activity-1gTu-L::before {
+  background-color: var(--mainColor);
+  background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor02));
+  opacity: 0.75;
+  content: "";
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 0;
+}
+#app-mount .spotifyIcon-2J9kSv {
+  position: absolute !important;
+  top: 16px;
+  right: 16px;
+}
+#app-mount .spotifyIcon-2J9kSv path {
+  fill: #fff !important;
+}
+#app-mount .avatar-2Vndt_ {
+  background-color: var(--backgroundColor01) !important;
+  border-color: var(--backgroundColor01) !important;
+}
+#app-mount .headerTop-2cWpdB {
+  background-color: var(--backgroundColor01);
+  border: none !important;
+}
+#app-mount .activity-fViXj7 {
+  padding: 16px !important;
+}
+#app-mount .activity-fViXj7 .anchor-1MIwyf,
+#app-mount .activity-fViXj7 .headerText-3g1XK9 {
+  color: white !important;
+}
+#app-mount .activity-fViXj7 > svg {
+  top: 16px;
+  right: 16px;
+  position: absolute;
+}
+#app-mount .activity-fViXj7 > svg path {
+  fill: white;
+}
+#app-mount .activity-fViXj7 .timeBarUserPopout-qLXZaR .bar-1GpknY {
+  background-color: var(--backgroundColor01);
+}
+#app-mount .customStatus-3XAoF9 {
+  padding: 0 16px;
+}
+#app-mount .userPopout-2j1gM4 {
+  background-color: var(--backgroundColor01) !important;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+  -ms-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+  -o-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+}
+#app-mount .footer-3naVBw,
+#app-mount .bodyInnerWrapper-2bQs1k,
+#app-mount .userPopout-2j1gM4 {
+  background-color: var(--backgroundColor01) !important;
+}
+#app-mount .avatar-22FtUu {
+  border: 6px solid var(--backgroundColor01);
+  background-color: var(--backgroundColor02);
+}
+#app-mount .footer-1fjuF6 input {
+  background-color: rgba(0, 0, 0, 0.3) !important;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+#app-mount .footer-1fjuF6 input:hover {
+  border-color: var(--backgroundColor02);
+}
+#app-mount .footer-1fjuF6 input:focus,
+#app-mount .footer-1fjuF6 input:focus:hover {
+  background-color: var(--backgroundColor02) !important;
+  border-color: var(--mainColor);
+}
+#app-mount .rolesList-3uZoaa {
+  padding: 0 16px;
+}
+#app-mount .note-Go5ZP2 {
+  margin: 0 16px !important;
+}
+#app-mount .note-Go5ZP2 textarea {
+  background-color: rgba(0, 0, 0, 0.3) !important;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+#app-mount .note-Go5ZP2 textarea:hover {
+  border-color: var(--backgroundColor02);
+}
+#app-mount .note-Go5ZP2 textarea:focus,
+#app-mount .note-Go5ZP2 textarea:focus:hover {
+  background-color: var(--backgroundColor02) !important;
+  border-color: var(--mainColor);
+}
+#app-mount .note-3HfJZ5 {
+  margin: 0 8px 0 0 !important;
+}
+#app-mount .role-2TIOKu {
+  background-color: transparent !important;
+  border: 2px solid currentColor;
+  border-radius: 50px;
+}
+#app-mount .addButton-1_dZYu {
+  border: none !important;
+}
+#app-mount .container-2O1UgZ {
+  background-color: var(--backgroundColor01) !important;
+  -webkit-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.3), 0 0 10px 0 rgba(0, 0, 0, 0.5);
+  -ms-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.3), 0 0 10px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.3), 0 0 10px 0 rgba(0, 0, 0, 0.5);
+  -o-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.3), 0 0 10px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.3), 0 0 10px 0 rgba(0, 0, 0, 0.5);
+  border: none !important;
+}
+#app-mount .container-2O1UgZ .inner-2pOSmK {
+  background-color: var(--backgroundColor02) !important;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+#app-mount .container-2O1UgZ .focused-qp-W9B,
+#app-mount .container-2O1UgZ .item-1BCeuB:hover {
+  background-color: var(--backgroundColor02) !important;
+}
+#app-mount .tabBarContainer-1IbuvX {
+  border: none !important;
+  background-color: var(--backgroundColor02) !important;
+}
+#app-mount .tabBarContainer-1IbuvX .tabBarItem-1b8RUP {
+  color: rgba(255, 255, 255, 0.5) !important;
+}
+#app-mount .tabBarContainer-1IbuvX .tabBarItem-1b8RUP:hover {
+  border-color: rgba(255, 255, 255, 0.5) !important;
+}
+#app-mount .tabBarContainer-1IbuvX .tabBarItem-1b8RUP[aria-selected=true],
+#app-mount .tabBarContainer-1IbuvX .tabBarItem-1b8RUP[aria-selected=true]:hover {
+  color: #fff !important;
+  border-color: var(--mainColor) !important;
+}
+#app-mount .userInfoSection-2u2hir:nth-child(2) {
+  border: none !important;
+}
+#app-mount .connectedAccount-1xKpli {
+  background-color: var(--backgroundColor02);
+  border: none !important;
+}
+#app-mount .listRow-hutiT_:hover {
+  background-color: var(--backgroundColor02);
+}
+#app-mount .topSectionNormal-2-vo2m {
+  background-color: var(--backgroundColor01) !important;
+  -webkit-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.3);
+  -ms-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.3);
+  -o-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.3);
+  box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.3);
+}
+#app-mount .topSectionPlaying-1J5E4n {
+  background-color: var(--gradientColor01);
+  background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor02)) !important;
+}
+#app-mount .topSectionPlaying-1J5E4n .assets-3PQvAh {
+  -webkit-box-shadow: 0 7px 10px -4px rgba(0, 0, 0, 0.3);
+  -ms-box-shadow: 0 7px 10px -4px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0 7px 10px -4px rgba(0, 0, 0, 0.3);
+  -o-box-shadow: 0 7px 10px -4px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 7px 10px -4px rgba(0, 0, 0, 0.3);
+}
+#app-mount .topSectionStreaming-1Tpf5X {
+  background-color: #593695;
+  background-image: linear-gradient(-45deg, #593695, #7651b6) !important;
+  -webkit-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.2);
+  -ms-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.2);
+  -o-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.2);
+  box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.2);
+}
+#app-mount .topSectionSpotify-1lI0-P {
+  background-color: #1db954;
+  background-image: linear-gradient(-45deg, #1db954, #1db944) !important;
+  -webkit-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.2);
+  -ms-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.2);
+  -o-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.2);
+  box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, 0.2);
+}
+#app-mount .aboutMeSection-PUghFQ {
+  background-color: transparent !important;
+}
+#app-mount .newBrand .textBadge-1fdDPJ[style*="rgb(88, 101, 242)"] {
+  background-color: var(--mainColor) !important;
+}
+
+/*# sourceMappingURL=nocturnalV4.css.map */
